@@ -1,0 +1,6 @@
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\bin\Debug\CodingTest082216.exe.config
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\bin\Debug\CodingTest082216.exe
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\bin\Debug\CodingTest082216.pdb
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\obj\Debug\CodingTest082216.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\obj\Debug\CodingTest082216.exe
+d:\my documents\visual studio 2015\Projects\CodingTest082216\CodingTest082216\obj\Debug\CodingTest082216.pdb
